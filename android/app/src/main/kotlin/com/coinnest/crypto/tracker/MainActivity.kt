@@ -1,4 +1,4 @@
-package com.pulsefit.workout.hiit
+package com.coinnest.crypto.tracker
 
 import io.flutter.embedding.android.FlutterActivity
 
